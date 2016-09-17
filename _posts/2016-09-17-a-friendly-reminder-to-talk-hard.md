@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-17T07:55:00.499Z'
+datePublished: '2016-09-17T07:56:32.292Z'
 sourcePath: _posts/2016-09-17-a-friendly-reminder-to-talk-hard.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-17T07:54:59.417Z'
+dateModified: '2016-09-17T07:56:31.357Z'
 title: ' A friendly reminder to, “Talk Hard!”'
 publisher: {}
 description: >-
@@ -33,10 +33,11 @@ So my misanthropes, as I sit here... naked, wearing only a \_\_\_\_ (really go f
 
 I'll leave you with this:  
 Here we are 26 years later and not much has changed, and in some regards things have actually gotten worse, bullying has gotten out of control, we reward stupidity and cruelty, as a society we worship reality tv stars, we've been at war for 15 years with no discernible end in sight, our political system has been hijacked by special interests and parties that really only care about their prominence and not the welfare of our country and our voices are silenced. So yeah there really is something wrong in our country. And it's about time we all addressed it, together.  
-As this will serve as my inaugural post for this site, I'm not just going to delve right into the meat of the matter, I just want to get us warmed up for the conversation we should have be having all along.  
-Bonus: Thanks to the advent of the internet, I won't have to go around steeling the airwaves, (no need to involve the FCC), to get my message out, I can just write my thoughts here or start a YouTube channel where no one will care when I inevitably curse or not care at all.
+As this will serve as my inaugural post for this site, I'm not just going to delve right into the meat of the matter, I just want to get us warmed up for the conversation we should have be having all along.
 
 ## The world and medium by which we communicate may have changed, but the message has not.
+
+Bonus: Thanks to the advent of the internet, I won't have to go around steeling the airwaves, (no need to involve the FCC), to get my message out, I can just write my thoughts here or start a YouTube channel where no one will care when I inevitably curse or not care at all.
 
 ## "Talk Hard"
 
