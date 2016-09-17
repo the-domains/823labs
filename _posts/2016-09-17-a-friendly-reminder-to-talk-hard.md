@@ -1,19 +1,25 @@
 ---
-datePublished: '2016-09-17T07:56:32.292Z'
+datePublished: '2016-09-17T08:05:40.742Z'
 sourcePath: _posts/2016-09-17-a-friendly-reminder-to-talk-hard.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-17T07:56:31.357Z'
+dateModified: '2016-09-17T08:05:39.597Z'
 title: ' A friendly reminder to, “Talk Hard!”'
 publisher: {}
 description: >-
-  This question was posed by a t̶e̶e̶n̶ generation, filled with angst, dejected
-  and rejected by the so-called establishment/society, and it is just as
-  relevant today, as it was 26 years ago, when I first saw the film “Pump Up The
-  Volume”. When our moral and political compasses have become so screwed up,
-  it’s hard to tell where to stand on most things. So it’s time we talked.
+  This question was posed by a t̶e̶e̶n̶ generation, who like most of my
+  generation were filled with angst, dejected and rejected by the so-called
+  establishment/society, when we began to realize that we were being used as
+  capital then discarded as if we’re nothing. Sadly, we weren’t really
+  listening, as it is just as relevant today, as it was 26 years ago, when the
+  film “Pump Up The Volume” came out. (This is not to say this angst and
+  rebellion is limited to my generation, but this was one of the first films
+  (aside from Network (1976), that called on us to buck the establishment, and
+  call them on their bullshit in no uncertain terms.)  When our moral and
+  political compasses have become so screwed up, it’s hard to tell where to
+  stand on most things. So it’s time we talked.
 starred: true
 url: a-friendly-reminder-to-talk-hard/index.html
 _type: Article
@@ -24,7 +30,7 @@ _type: Article
 
 ## "Do you ever get the feeling that everything in America is completely fucked up?"
 
-This question was posed by a t̶e̶e̶n̶ generation, filled with angst, dejected and rejected by the so-called establishment/society, and it is just as relevant today, as it was 26 years ago, when I first saw the film "Pump Up The Volume".   
+This question was posed by a t̶e̶e̶n̶ generation, who like most of my generation were filled with angst, dejected and rejected by the so-called establishment/society, when we began to realize that we were being used as capital then discarded as if we're nothing. Sadly, we weren't really listening, as it is just as relevant today, as it was 26 years ago, when the film "Pump Up The Volume" came out. (This is not to say this angst and rebellion is limited to my generation, but this was one of the first films (aside from Network (1976), that called on us to buck the establishment, and call them on their bullshit in no uncertain terms.)  
 When our moral and political compasses have become so screwed up, it's hard to tell where to stand on most things. So it's time we talked.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FxLDehtTqyig%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxLDehtTqyig&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FxLDehtTqyig%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
