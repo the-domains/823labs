@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-09-17T05:26:35.038Z'
+datePublished: '2016-09-17T05:43:56.389Z'
 sourcePath: _posts/2016-09-17-a-friendly-reminder-to-talk-hard.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-17T05:26:34.474Z'
+dateModified: '2016-09-17T05:43:55.969Z'
 title: ' A friendly reminder to, “Talk Hard!”'
 publisher: {}
 description: >-
   This question was posed by a t̶e̶e̶n̶ generation, filled with angst, dejected
   and rejected by the so-called establishment/society, and it is just as
   relevant today, as it was 26 years ago, when I first saw the film “Pump Up The
-  Volume”.  When our moral and political compasses have become so screwed up,
+  Volume”. When our moral and political compasses have become so screwed up,
   it’s hard to tell where to stand on most things. So it’s time we talked.
-starred: false
+starred: true
 _type: Blurb
 
 ---
