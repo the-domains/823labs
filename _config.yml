@@ -1,16 +1,16 @@
-layout_spectrum: 0.046374808298423886
-typography_spectrum: 0.2846351533662528
+layout_spectrum: 0.9253401812165976
+typography_spectrum: 0.04228055942803621
 color:
-  brandStrength: 0.7509002599399537
-  lightness: 0.5350281884893775
-  saturation: 0.597718607634306
-  rhythmicContrast: 0.9898444055579603
+  brandStrength: 0.32581590372137725
+  lightness: 0.28775263112038374
+  saturation: 0.22654043626971543
+  rhythmicContrast: 0.450806793756783
   brandColors:
-    - '#010101'
-    - '#474048'
-    - '#FFFCFF'
-    - '#9B5734'
-    - '#D3BCAE'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 github: true
 author:
   name: Alex Martinez
