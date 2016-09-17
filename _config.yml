@@ -1,11 +1,17 @@
-typography_spectrum: 0.9042351855896413
+layout_spectrum: 0.046374808298423886
+typography_spectrum: 0.2846351533662528
 color:
-  brandStrength: 0.3430181664880365
-  lightness: 0.8556980302091688
-  saturation: 0.32266541407443583
-  rhythmicContrast: 0.8376485868357122
+  brandStrength: 0.7509002599399537
+  lightness: 0.5350281884893775
+  saturation: 0.597718607634306
+  rhythmicContrast: 0.9898444055579603
+  brandColors:
+    - '#010101'
+    - '#474048'
+    - '#FFFCFF'
+    - '#9B5734'
+    - '#D3BCAE'
 github: true
-layout_spectrum: 0.8940016739070415
 author:
   name: Alex Martinez
   email: alex@823labs.com
