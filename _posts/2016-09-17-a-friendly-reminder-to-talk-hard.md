@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-17T08:05:40.742Z'
+datePublished: '2016-09-22T22:29:30.092Z'
 sourcePath: _posts/2016-09-17-a-friendly-reminder-to-talk-hard.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-17T08:05:39.597Z'
+dateModified: '2016-09-22T22:29:29.434Z'
 title: ' A friendly reminder to, “Talk Hard!”'
 publisher: {}
 description: >-
@@ -17,7 +17,7 @@ description: >-
   film “Pump Up The Volume” came out. (This is not to say this angst and
   rebellion is limited to my generation, but this was one of the first films
   (aside from Network (1976), that called on us to buck the establishment, and
-  call them on their bullshit in no uncertain terms.)  When our moral and
+  call them on their bullshit in no uncertain terms.)When our moral and
   political compasses have become so screwed up, it’s hard to tell where to
   stand on most things. So it’s time we talked.
 starred: true
@@ -33,8 +33,6 @@ _type: Article
 This question was posed by a t̶e̶e̶n̶ generation, who like most of my generation were filled with angst, dejected and rejected by the so-called establishment/society, when we began to realize that we were being used as capital then discarded as if we're nothing. Sadly, we weren't really listening, as it is just as relevant today, as it was 26 years ago, when the film "Pump Up The Volume" came out. (This is not to say this angst and rebellion is limited to my generation, but this was one of the first films (aside from Network (1976), that called on us to buck the establishment, and call them on their bullshit in no uncertain terms.)  
 When our moral and political compasses have become so screwed up, it's hard to tell where to stand on most things. So it's time we talked.
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FxLDehtTqyig%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxLDehtTqyig&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FxLDehtTqyig%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
-
 So my misanthropes, as I sit here... naked, wearing only a \_\_\_\_ (really go find the movie.... like on YouTube)
 
 I'll leave you with this:  
@@ -46,6 +44,8 @@ As this will serve as my inaugural post for this site, I'm not just going to del
 Bonus: Thanks to the advent of the internet, I won't have to go around steeling the airwaves, (no need to involve the FCC), to get my message out, I can just write my thoughts here or start a YouTube channel where no one will care when I inevitably curse or not care at all.
 
 ## "Talk Hard"
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FxLDehtTqyig%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxLDehtTqyig&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FxLDehtTqyig%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 Follow me on Twitter: [@823Labs][0]
 
